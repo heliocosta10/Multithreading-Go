@@ -1,0 +1,14 @@
+# Executáveis
+*.exe
+*.out
+*.test
+
+# Arquivos locais de IDE e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+tmp/
